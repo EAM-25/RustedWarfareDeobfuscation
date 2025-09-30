@@ -1,0 +1,88 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "android-game-lib.jar"
+  ],
+  "treeExpansionsV2": [
+    "c:com.corrodinggames.rts.gameFramework.utility.i"
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": [
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.corrodinggames.rts.gameFramework.bp",
+          "shortId": "G:Lcom/corrodinggames/rts/gameFramework/j/j;"
+        },
+        "newName": "gameInputStream"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.corrodinggames.rts.gameFramework.bp",
+          "shortId": "K:Lcom/corrodinggames/rts/gameFramework/j/bg;"
+        },
+        "newName": "gameOutputStream"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.corrodinggames.rts.gameFramework.bp",
+          "shortId": "L:Lcom/corrodinggames/rts/gameFramework/bq;"
+        },
+        "newName": "replaySaveRunnable"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "com.corrodinggames.rts.gameFramework.bp",
+          "shortId": "g:Lcom/corrodinggames/rts/gameFramework/j/ay;"
+        },
+        "newName": "checkSumData"
+      }
+    ]
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "com.corrodinggames.rts.gameFramework.bq",
+      "subPath": "java",
+      "caret": 1069,
+      "view": {
+        "x": 0,
+        "y": 144
+      },
+      "active": true,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.corrodinggames.rts.gameFramework.bp",
+      "subPath": "java",
+      "caret": 12356,
+      "view": {
+        "x": 0,
+        "y": 4185
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    }
+  ],
+  "mappingsPath": "mappings.txt",
+  "cacheDir": "C:\\Users\\1\\AppData\\Local\\skylot\\jadx\\cache\\projects\\android-game-lib-95eeabe49fcc6e6ca9926b902548d429",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "searchResourcesFilter": "$TEXT",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {
+    "rename-mappings.format": "PROGUARD_FILE",
+    "rename-mappings.invert": "no"
+  }
+}
